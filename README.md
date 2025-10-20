@@ -1,7 +1,7 @@
 LLM (Large Language Model) is an AI model trained on a huge amount of text data (books, code, articles, websites, conversations).
 It learns patterns of human language so it can understand, process, and generate text like a human.
 
-👉 Example: GPT (OpenAI), Gemini (Google), Claude (Anthropic), LLaMA (Meta).
+ Example: GPT (OpenAI), Gemini (Google), Claude (Anthropic), LLaMA (Meta).
 
 🔹 Uses of LLM
 LLMs are used in many real-world applications, such as:
@@ -20,5 +20,5 @@ Business Applications
 Report generation, data analysis (via natural language queries), drafting contracts.
 Ceative Work
 Story writing, poem generation, idea brainstorming, game dialogue creation.
-👉 In simple words:
+In simple words:
 LLM = AI system that can read, write, explain, and talk in natural human language, used in chatbots, coding, content, business, and education.
